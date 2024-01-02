@@ -14,6 +14,12 @@
 
 ## Skills
 
--tech
+![Static Badge](https://img.shields.io/badge/HTML5-%23000?style=for-the-badge&logo=html5&logoColor=%23fff&labelColor=%23E34F26)
+![Static Badge](https://img.shields.io/badge/CSS3-%23000?style=for-the-badge&logo=css3&logoColor=%23fff&labelColor=%231572B6)
+![Static Badge](https://img.shields.io/badge/JavaScript-%23000?style=for-the-badge&logo=javascript&logoColor=%23fff&labelColor=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/Git-%23000?style=for-the-badge&logo=git&logoColor=%23fff&labelColor=%23F05032)
+![Static Badge](https://img.shields.io/badge/GitHub-%23000?style=for-the-badge&logo=github&logoColor=%23fff&labelColor=%23181717)
+![Static Badge](https://img.shields.io/badge/React-%23000?style=for-the-badge&logo=react&logoColor=%23fff&labelColor=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/PHP-%23000?style=for-the-badge&logo=php&logoColor=%23fff&labelColor=%23777BB4)
 
 ## My Projects
