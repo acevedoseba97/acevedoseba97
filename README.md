@@ -1,4 +1,4 @@
-### Hi there, I'm Sebastian 👋
+<h1 align="center">Hi there, I'm Sebastian 👋</h1>
 
 ## About Me
 
