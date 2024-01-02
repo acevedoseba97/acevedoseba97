@@ -12,4 +12,8 @@
 - 😃 I'm interested in all kinds of tech stuff
 <br>
 
+## About Me
+
+-tech
+
 ## My Projects
