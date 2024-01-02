@@ -1,6 +1,6 @@
 ### Hi there, I'm Sebastian 👋
 
-## Sobre mi
+## About Me
 
 - 🖥️ Web developer
 - 🎨 Artist in my free time
