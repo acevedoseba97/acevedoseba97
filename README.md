@@ -25,38 +25,37 @@
 
 ## My Projects
 
-<table>
-  <tbody>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Gran Turismo 4 Blog</h3>
-        <div align="center">
-          <a href=# >
-            <img src=https://github.com/acevedoseba97/acevedoseba97/assets/117867239/a1c29b3d-c145-4c90-b7e3-c14c6addb62f>
-          </a>
-          <p align="center">
-            <img src=https://img.shields.io/badge/HTML5-%23000?style=for-the-badge&logo=html5&logoColor=%23fff&labelColor=%23E34F26>
-            <img src=https://img.shields.io/badge/CSS3-%23000?style=for-the-badge&logo=css3&logoColor=%23fff&labelColor=%231572B6>
-            <img src=https://img.shields.io/badge/JavaScript-%23000?style=for-the-badge&logo=javascript&logoColor=%23fff&labelColor=%23F7DF1E>
-          </p>
-          <p>A blog site based on the videogame Gran Turismo 4</p>
-        </div>
-      </td>
+<table align="center">
+<tr>
+<td width="50%">
+<h3 align="center">Gran Turismo 4 Blog</h3>
+<div align="center">
+<a href="https://github.com/acevedoseba97/gt4-blog" target="_blank"><img src="https://github.com/acevedoseba97/acevedoseba97/assets/117867239/52d5f477-ca32-43a0-a885-5767eb78afdd" width="400" alt="Gran Turismo 4 Blog"></a>
 
-      <td width="50%">
-        <h3 align="center">Gran Turismo 4 Blog</h3>
-        <div align="center">
-          <a href=# >
-            <img src=https://github.com/acevedoseba97/acevedoseba97/assets/117867239/a1c29b3d-c145-4c90-b7e3-c14c6addb62f>
-          </a>
-          <p align="center">
-            <img src=https://img.shields.io/badge/HTML5-%23000?style=for-the-badge&logo=html5&logoColor=%23fff&labelColor=%23E34F26>
-            <img src=https://img.shields.io/badge/CSS3-%23000?style=for-the-badge&logo=css3&logoColor=%23fff&labelColor=%231572B6>
-            <img src=https://img.shields.io/badge/JavaScript-%23000?style=for-the-badge&logo=javascript&logoColor=%23fff&labelColor=%23F7DF1E>
-          </p>
-          <p>A blog site based on the videogame Gran Turismo 4</p>
-        </div>
-      </td>
-    </tr>    
-  </tbody>
-</table>
+<p>
+<img src="https://img.shields.io/badge/HTML5-%23000?style=for-the-badge&logo=html5&logoColor=%23fff&labelColor=%23E34F26">
+  <img src="https://img.shields.io/badge/CSS3-%23000?style=for-the-badge&logo=css3&logoColor=%23fff&labelColor=%231572B6">
+  <img src="https://img.shields.io/badge/JavaScript-%23000?style=for-the-badge&logo=javascript&logoColor=%23fff&labelColor=%23F7DF1E">
+</p>
+<p>Blog based on the videogame Gran Turismo 4</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<h3 align="center">Second Project</h3>
+<div align="center">
+<a href="#" target="_blank"><img src="#" width="400" alt="Soon"></a>
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-%23000?style=for-the-badge&logo=html5&logoColor=%23fff&labelColor=%23E34F26">
+  <img src="https://img.shields.io/badge/CSS3-%23000?style=for-the-badge&logo=css3&logoColor=%23fff&labelColor=%231572B6">
+  <img src="https://img.shields.io/badge/JavaScript-%23000?style=for-the-badge&logo=javascript&logoColor=%23fff&labelColor=%23F7DF1E">
+</p>
+<p>Soon to be added</p>
+</div>
+                                                                                      
+</td>
+
+</tr>
+</table>                                                                                 
