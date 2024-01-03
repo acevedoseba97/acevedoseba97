@@ -30,7 +30,7 @@
 <td width="50%">
 <h3 align="center">Gran Turismo 4 Blog</h3>
 <div align="center">
-<a href="https://github.com/acevedoseba97/gt4-blog" target="_blank"><img src="https://github.com/acevedoseba97/acevedoseba97/assets/117867239/52d5f477-ca32-43a0-a885-5767eb78afdd" width="400" alt="Gran Turismo 4 Blog"></a>
+<a href="https://github.com/acevedoseba97/gt4-blog"><img src="https://github.com/acevedoseba97/acevedoseba97/assets/117867239/52d5f477-ca32-43a0-a885-5767eb78afdd" width="400" alt="Gran Turismo 4 Blog"></a>
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-%23000?style=for-the-badge&logo=html5&logoColor=%23fff&labelColor=%23E34F26">
