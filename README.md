@@ -24,3 +24,39 @@
 ![Static Badge](https://img.shields.io/badge/PHP-%23000?style=for-the-badge&logo=php&logoColor=%23fff&labelColor=%23777BB4)
 
 ## My Projects
+
+<table>
+  <tbody>
+    <tr>
+      <td width="50%">
+        <h3 align="center" dir="auto">Gran Turismo 4 Blog</h3>
+        <div align="center" dir="auto">
+          <a href=# >
+            <img src=https://github.com/acevedoseba97/acevedoseba97/assets/117867239/a1c29b3d-c145-4c90-b7e3-c14c6addb62f>
+          </a>
+          <p align="center">
+            <img src=https://img.shields.io/badge/HTML5-%23000?style=for-the-badge&logo=html5&logoColor=%23fff&labelColor=%23E34F26>
+            <img src=https://img.shields.io/badge/CSS3-%23000?style=for-the-badge&logo=css3&logoColor=%23fff&labelColor=%231572B6>
+            <img src=https://img.shields.io/badge/JavaScript-%23000?style=for-the-badge&logo=javascript&logoColor=%23fff&labelColor=%23F7DF1E>
+          </p>
+          <p>A blog site based on the videogame Gran Turismo 4</p>
+        </div>
+      </td>
+
+      <td width="50%">
+        <h3 align="center" dir="auto">Gran Turismo 4 Blog</h3>
+        <div align="center" dir="auto">
+          <a href=# >
+            <img src=https://github.com/acevedoseba97/acevedoseba97/assets/117867239/a1c29b3d-c145-4c90-b7e3-c14c6addb62f>
+          </a>
+          <p align="center">
+            <img src=https://img.shields.io/badge/HTML5-%23000?style=for-the-badge&logo=html5&logoColor=%23fff&labelColor=%23E34F26>
+            <img src=https://img.shields.io/badge/CSS3-%23000?style=for-the-badge&logo=css3&logoColor=%23fff&labelColor=%231572B6>
+            <img src=https://img.shields.io/badge/JavaScript-%23000?style=for-the-badge&logo=javascript&logoColor=%23fff&labelColor=%23F7DF1E>
+          </p>
+          <p>A blog site based on the videogame Gran Turismo 4</p>
+        </div>
+      </td>
+    </tr>    
+  </tbody>
+</table>
