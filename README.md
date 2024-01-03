@@ -29,8 +29,8 @@
   <tbody>
     <tr>
       <td width="50%">
-        <h3 align="center" dir="auto">Gran Turismo 4 Blog</h3>
-        <div align="center" dir="auto">
+        <h3 align="center">Gran Turismo 4 Blog</h3>
+        <div align="center">
           <a href=# >
             <img src=https://github.com/acevedoseba97/acevedoseba97/assets/117867239/a1c29b3d-c145-4c90-b7e3-c14c6addb62f>
           </a>
@@ -44,8 +44,8 @@
       </td>
 
       <td width="50%">
-        <h3 align="center" dir="auto">Gran Turismo 4 Blog</h3>
-        <div align="center" dir="auto">
+        <h3 align="center">Gran Turismo 4 Blog</h3>
+        <div align="center">
           <a href=# >
             <img src=https://github.com/acevedoseba97/acevedoseba97/assets/117867239/a1c29b3d-c145-4c90-b7e3-c14c6addb62f>
           </a>
