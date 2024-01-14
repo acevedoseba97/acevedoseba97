@@ -46,7 +46,7 @@
 <td width="50%">
 <h3 align="center">Responsive Weather App</h3>
 <div align="center">
-<a href="https://github.com/acevedoseba97/acevedoseba97/assets/117867239/68f70730-25d9-4061-bfa9-75c3a52f2f87" target="_blank"><img src="https://github.com/acevedoseba97/acevedoseba97/assets/117867239/68f70730-25d9-4061-bfa9-75c3a52f2f87" width="400" alt="Weather app"></a>
+<a href="https://github.com/acevedoseba97/weather-app" target="_blank"><img src="https://github.com/acevedoseba97/acevedoseba97/assets/117867239/68f70730-25d9-4061-bfa9-75c3a52f2f87" width="400" alt="Weather app"></a>
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-%23000?style=for-the-badge&logo=html5&logoColor=%23fff&labelColor=%23E34F26">
