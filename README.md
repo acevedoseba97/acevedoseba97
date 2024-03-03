@@ -78,16 +78,18 @@
 </td>
 
 <td width="50%">
-<h3 align="center">Responsive Weather App</h3>
+<h3 align="center">Shopping Cart</h3>
 <div align="center">
-<a href="https://github.com/acevedoseba97/weather-app" target="_blank"><img src="https://github.com/acevedoseba97/acevedoseba97/assets/117867239/68f70730-25d9-4061-bfa9-75c3a52f2f87" width="400" alt="Weather app"></a>
+<a href="https://github.com/acevedoseba97/react-shoppingcart" target="_blank"><img src="https://github.com/acevedoseba97/acevedoseba97/assets/117867239/707803aa-c6d3-42d9-9467-e4d1a9844ae0" width="400" alt="Shopping Cart"></a>
+
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-%23000?style=for-the-badge&logo=html5&logoColor=%23fff&labelColor=%23E34F26">
-  <img src="https://img.shields.io/badge/CSS3-%23000?style=for-the-badge&logo=css3&logoColor=%23fff&labelColor=%231572B6">
-  <img src="https://img.shields.io/badge/JavaScript-%23000?style=for-the-badge&logo=javascript&logoColor=%23fff&labelColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/React-%23000?style=for-the-badge&logo=react&logoColor=%23fff&labelColor=%2361DAFB">
+<img src="https://img.shields.io/badge/Redux-%23000?style=for-the-badge&logo=redux&labelColor=%23764ABC">
+<img src="https://img.shields.io/badge/TailwindCSS-%23000?style=for-the-badge&logo=tailwindcss&logoColor=%23fff&labelColor=%2306B6D4">
+
 </p>
-<p>Responsive weather app with day/night difference</p>
+<p>Shopping Cart made with React and Redux</p>
 </div>
                                                                                       
 </td>
