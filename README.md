@@ -21,6 +21,7 @@
 ![Static Badge](https://img.shields.io/badge/Git-%23000?style=for-the-badge&logo=git&logoColor=%23fff&labelColor=%23F05032)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23000?style=for-the-badge&logo=github&logoColor=%23fff&labelColor=%23181717)
 ![Static Badge](https://img.shields.io/badge/React-%23000?style=for-the-badge&logo=react&logoColor=%23fff&labelColor=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/TailwindCSS-%23000?style=for-the-badge&logo=tailwindcss&logoColor=%23fff&labelColor=%2306B6D4)
 ![Static Badge](https://img.shields.io/badge/PHP-%23000?style=for-the-badge&logo=php&logoColor=%23fff&labelColor=%23777BB4)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23000?style=for-the-badge&logo=visual-studio&logoColor=%23fff&labelColor=%23007ACC)
 
@@ -39,6 +40,39 @@
   <img src="https://img.shields.io/badge/JavaScript-%23000?style=for-the-badge&logo=javascript&logoColor=%23fff&labelColor=%23F7DF1E">
 </p>
 <p>Blog based on the videogame Gran Turismo 4</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<h3 align="center">Responsive Weather App</h3>
+<div align="center">
+<a href="https://github.com/acevedoseba97/weather-app" target="_blank"><img src="https://github.com/acevedoseba97/acevedoseba97/assets/117867239/68f70730-25d9-4061-bfa9-75c3a52f2f87" width="400" alt="Weather app"></a>
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-%23000?style=for-the-badge&logo=html5&logoColor=%23fff&labelColor=%23E34F26">
+  <img src="https://img.shields.io/badge/CSS3-%23000?style=for-the-badge&logo=css3&logoColor=%23fff&labelColor=%231572B6">
+  <img src="https://img.shields.io/badge/JavaScript-%23000?style=for-the-badge&logo=javascript&logoColor=%23fff&labelColor=%23F7DF1E">
+</p>
+<p>Responsive weather app with day/night difference</p>
+</div>
+                                                                                      
+</td>
+
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">React ToDo App</h3>
+<div align="center">
+<a href="https://github.com/acevedoseba97/react-todo"><img src="https://github.com/acevedoseba97/acevedoseba97/assets/117867239/d7b3eaee-0758-4959-81cc-2cf15ef84a68" width="400" alt="React ToDo App"></a>
+
+
+<p>
+<img src="https://img.shields.io/badge/React-%23000?style=for-the-badge&logo=react&logoColor=%23fff&labelColor=%2361DAFB">
+<img src="https://img.shields.io/badge/TailwindCSS-%23000?style=for-the-badge&logo=tailwindcss&logoColor=%23fff&labelColor=%2306B6D4">
+</p>
+<p>React ToDo App, with the possibility of saving changes via localStorage</p>
 </div>
                                                                                       
 </td>
