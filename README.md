@@ -89,7 +89,7 @@
 <img src="https://img.shields.io/badge/TailwindCSS-%23000?style=for-the-badge&logo=tailwindcss&logoColor=%23fff&labelColor=%2306B6D4">
 
 </p>
-<p>Shopping Cart made with React and Redux</p>
+<p>React App that simulates a shopping cart with 4 initial products, using Redux library</p>
 </div>
                                                                                       
 </td>
