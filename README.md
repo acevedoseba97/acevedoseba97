@@ -22,6 +22,9 @@
 ![Static Badge](https://img.shields.io/badge/GitHub-%23000?style=for-the-badge&logo=github&logoColor=%23fff&labelColor=%23181717)
 ![Static Badge](https://img.shields.io/badge/React-%23000?style=for-the-badge&logo=react&logoColor=%23fff&labelColor=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/TailwindCSS-%23000?style=for-the-badge&logo=tailwindcss&logoColor=%23fff&labelColor=%2306B6D4)
+![Static Badge](https://img.shields.io/badge/Node.js-%23000?style=for-the-badge&logo=node.js&logoColor=%23fff&labelColor=%235FA04E)
+![Static Badge](https://img.shields.io/badge/TypeScript-%23000?style=for-the-badge&logo=typescript&logoColor=%23fff&labelColor=%233178C6)
+![Static Badge](https://img.shields.io/badge/Next.js-%23000?style=for-the-badge&logo=next.js&logoColor=%23fff&labelColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/PHP-%23000?style=for-the-badge&logo=php&logoColor=%23fff&labelColor=%23777BB4)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23000?style=for-the-badge&logo=visual-studio&logoColor=%23fff&labelColor=%23007ACC)
 
