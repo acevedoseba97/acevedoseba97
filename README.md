@@ -108,7 +108,7 @@
   <img src="https://img.shields.io/badge/React-%23000?style=for-the-badge&logo=react&logoColor=%23fff&labelColor=%2361DAFB">
   <img src="https://img.shields.io/badge/TailwindCSS-%23000?style=for-the-badge&logo=tailwindcss&logoColor=%23fff&labelColor=%2306B6D4">
 </p>
-<p>Car Website, with features like Dark Mode, animations and a slider of pictures</p>
+<p>Car Website with features like Dark Mode, animations and a slider of pictures. Fully responsive in all devices</p>
 </div>
                                                                                       
 </td>
